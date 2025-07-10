@@ -16,3 +16,4 @@ tags: [C++]
 ## Why [Learn C++](https://www.learncpp.com/)?
 
 * `Gemini 2.5 Pro` 推荐的😂, 其实材料不是关键, 9.1 分和 9.9 分的差异很小, 关键在于坚持.
+
