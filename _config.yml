@@ -28,6 +28,8 @@ url: "https://wangyufengreal.github.io"
 github:
   username: wangyufengreal # change to your GitHub username
 
+img_cdn_url: "https://raw.githubusercontent.com/wangyufengreal/picgo_imgs/master"
+
 # twitter:
 #   username: twitter_username # change to your Twitter username
 
